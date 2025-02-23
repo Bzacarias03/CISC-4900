@@ -1,8 +1,8 @@
-# CISC 4900 Project
+# CISC 4900 Project - drawmeet
 
 ## Overview
 
-This project is a Flutter-based dating app developed as part of a university class. Due to confidentiality agreements, specific project details are kept minimal.
+drawmeet is a Flutter-based dating app. Due to confidentiality agreements, specific project details are kept minimal.
 
 ## Features
 
